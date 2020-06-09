@@ -1,4 +1,4 @@
-package leetCodes;
+package leetcode;
 
 
 import java.util.HashMap;
@@ -9,7 +9,7 @@ import java.util.Map;
  * @author ziyuy
  * 多米诺骨牌问题，自己写的就是不完全的动态规划
  */
-public class Leetcode_838_Solutions {
+public class leetcode838 {
     public static String pushDominoes(String dominoes) {
         int StartIndex = dominoes.length();
         int EndIndex = 0;

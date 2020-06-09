@@ -1,7 +1,7 @@
-package leetCodes;
+package leetcode;
 
 
-public class Leetcode_28_Solutions {
+public class leetcode28 {
 
     //KMP算法实现
     public int strStr(String haystack, String needle) {
