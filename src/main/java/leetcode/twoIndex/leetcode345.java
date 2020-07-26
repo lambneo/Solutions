@@ -1,5 +1,8 @@
 package leetcode.twoIndex;
 
+/**
+ * 反转该字符串中的元音字母，双指针解决
+ */
 public class leetcode345 {
     public String reverseVowels(String s) {
         if (s.length() <= 1) return s;

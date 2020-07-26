@@ -1,5 +1,8 @@
 package leetcode.twoIndex;
 
+/**
+ * 已排序数组，求两数之和等于目标值，双指针
+ */
 public class leetcode167 {
     public int[] twoSum(int[] numbers, int target) {
         if (numbers.length == 0) return null;

@@ -1,6 +1,8 @@
 package leetcode.twoIndex;
 
-
+/**
+ * 141，判断链表是否有环
+ */
 public class leetcode141 {
     public boolean hasCycle(ListNode head) {
         if (head == null) return false;
